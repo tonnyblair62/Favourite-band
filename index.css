@@ -1,0 +1,18 @@
+.header {
+    background-color: black;
+    color: gold;
+    text-align: center;
+}
+#part2 {
+    background-color: #041811;
+    color: gold;
+    justify-content: space-around;
+}
+image {
+    border-radius: 20px;
+    justify-content: space-between;
+}
+#links {
+    background-color:#041811;
+    color:goldenrod;
+}
